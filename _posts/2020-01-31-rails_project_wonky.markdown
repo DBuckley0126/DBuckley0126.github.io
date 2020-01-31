@@ -1,10 +1,12 @@
 ---
 layout: post
 title:      "Rails Project — Wonky"
-date:       2020-01-31 13:12:08 +0000
+date:       2020-01-31 08:12:09 -0500
 permalink:  rails_project_wonky
 ---
 
+
+The Medium Article: https://medium.com/@dannyboy.msn/rails-project-wonky-bd468aa27dcb
 
 A Flatiron Rails project —A online marketplace for farmers to list produce that is rejected by supermarkets.
 
