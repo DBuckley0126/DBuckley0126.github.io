@@ -16,6 +16,7 @@ For my second Flatiron project, the requirements it had to meet were:
 * Use CRUD
 
 **Defining the Problem**
+
 Both in life and at work, we tend to come up with solutions before defining the problem they solve. Coming up with a solution is a rewarding experience, but is it really a solution when there is no problem?
 
 Problems, on the other hand, are much harder to articulate. We don’t want to think about our problems or needs. They’re a pain.
@@ -23,6 +24,7 @@ Problems, on the other hand, are much harder to articulate. We don’t want to t
 I wanted to create a web application which offered a solution to an existing problem. So I went about my daily life waiting for a problem to arise, but during a busy day, you come across many problems, and for a forgetful person like me, you forget most of them by the end of the day. Hang on, there's a problem. Peoples lives are very busy and some people just don't have time to get a notebook out or unlock a phone to write something down to remember for later. This needs a solution.
 
 **Creating the Solution**
+
 I struggle to remember a lot of small things throughout the day, and wouldn't it be perfect if an assistant could just remember all this for me, in a quick and convenient way? This is where my application Remember Me comes to upgrade your frontal cortex.
 
 Voice assistant adoption is at a record high, with over half the U.S. population regular users of a voice assistant, it is clear that this is a new convenient way of accessing data, offering an alternative to a normal user interface. Being able to have a natural conversation with an application is very convenient, and would make a perfect companion for the application.
@@ -54,6 +56,7 @@ After I confirmed this worked by using the Alexa developer simulator (it took me
 After much much debugging and screaming at my computer, learning about fuzzy-matching algorithms, implementing AES256 data encryption, and sending temporary password emails through a mail jet API. I can happily say Alexa has full interaction with the Remember Me database!
 
 **Conclusion**
+
 The huge learning curve during this has been very tough at times, especially doing this within the time limit, I've had to work very late into the night, every single night, to make this application come to life. I am thrilled to say that the Alexa skill has passed the Amazon verification process and the Remember Me application is now being hosted on Heroku, with user and Alexa accounts being fully integrated into the service. I will continue to develop the application and proudly present it within my portfolio of projects.
 
 
