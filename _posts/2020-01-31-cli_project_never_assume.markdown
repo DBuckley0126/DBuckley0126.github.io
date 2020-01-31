@@ -6,6 +6,8 @@ permalink:  cli_project_never_assume
 ---
 
 
+The Medium article: https://medium.com/@dannyboy.msn/cli-project-never-assume-4e0c70fb40c8
+
 So I had been racking my head for ideas while working my night shift the week before the project week, as I knew if I was to make the best dawn command-line interface program any terminal has ever seen, I would need to be passionate about my project. While I was stacking cans of tomatoes, the idea came to me… Build a CLI game which the user is presented with a phrase and has to choose out of a range of options which google autocomplete search result, comes up first when the phrase is entered into the google search bar. I quickly brainstorm how I would make this project meet the requirements:
 * Provide a CLI
 * Your CLI application must provide access to data from a web page.
