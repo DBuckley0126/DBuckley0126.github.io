@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra Project — Remember Me"
-date:       2020-01-31 13:09:35 +0000
+date:       2020-01-31 08:09:36 -0500
 permalink:  sinatra_project_remember_me
 ---
 
