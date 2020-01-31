@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Project — Never Assume"
-date:       2020-01-31 13:04:22 +0000
+date:       2020-01-31 08:04:23 -0500
 permalink:  cli_project_never_assume
 ---
 
