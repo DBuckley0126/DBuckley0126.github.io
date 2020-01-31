@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Where the journey begins…"
-date:       2020-01-31 13:13:59 +0000
+date:       2020-01-31 08:14:00 -0500
 permalink:  where_the_journey_begins
 ---
 
