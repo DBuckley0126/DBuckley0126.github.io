@@ -5,6 +5,7 @@ date:       2020-01-31 08:09:36 -0500
 permalink:  sinatra_project_remember_me
 ---
 
+The Medium article: https://medium.com/@dannyboy.msn/sinatra-project-remember-me-d71bc9a13c1d
 
 A Flatiron Sinatra project — An Alexa assistant to help you to remember the little things in life with a simple phrase and answer.
 
